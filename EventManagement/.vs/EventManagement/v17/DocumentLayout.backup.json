@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|d:\\sumaiya\\ad\\cw ad 2\\eventmanagement\\eventmanagement\\eventmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1D57E2-9529-4A93-845A-3B4C0F556947}|EventManagement\\EventManagement.csproj|solutionrelative:eventmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "EventManagement\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "EventManagement\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T20:39:49.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EventManagement\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "EventManagement\\Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T20:18:28.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EventManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EventManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:17:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T18:10:29.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EventManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EventManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-13T15:57:54.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:34:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EventManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EventManagement\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:29:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EventManagement\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "EventManagement\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:19:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EventManagement\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "EventManagement\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:14:04.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

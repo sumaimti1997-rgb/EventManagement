@@ -19,4 +19,66 @@ html {
 
 body {
   margin-bottom: 60px;
+  padding:50;
+  width:100%;
+}
+
+.navbar {
+    background-color: #658D78;
+    margin-bottom: 0 !important;
+    position:fixed;
+    width:100%;
+}
+
+.navbar-brand{
+    color: black;
+    font-size:25px;
+    font-weight:600;
+}
+.home-title {
+    font-family: "Inknut Antiqua", sans-serif;
+    font-size: 60px;
+}
+.home-head {
+    font-family: "Inknut Antiqua", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.home-para{
+    width:55%;
+}
+.login-btn {
+    background-color: #363030;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-btn:hover {
+   background-color: #4a4242;
+}
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 100% !important;
+}
+.home-top{
+    background-color: #C9F6F4;
+    margin: 0;
+    padding:100px 150px;
+}
+.home-img img {
+    position: absolute;
+    top:110px;
+    right: 0;
+    bottom: 0;
+    width: 45%; 
+    height: auto;
+    object-fit: contain;
+    z-index: 0;
+    opacity: 1;
 }

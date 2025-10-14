@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janaka\\Desktop\\projects\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj": {}
+    "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janaka\\Desktop\\projects\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj": {
+    "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janaka\\Desktop\\projects\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj",
+        "projectUniqueName": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj",
         "projectName": "EventManagement",
-        "projectPath": "C:\\Users\\Janaka\\Desktop\\projects\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj",
-        "packagesPath": "C:\\Users\\Janaka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janaka\\Desktop\\projects\\EventManagement\\EventManagement\\EventManagement\\obj\\",
+        "projectPath": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\EventManagement.csproj",
+        "packagesPath": "C:\\Users\\Shimal HSM\\.nuget\\packages\\",
+        "outputPath": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Janaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shimal HSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,37 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.Service.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.0-preview1-final, )"
+            },
+            "Microsoft.EntityFramework.SqlServer": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
