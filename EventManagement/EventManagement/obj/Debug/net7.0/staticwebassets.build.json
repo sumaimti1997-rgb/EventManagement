@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aibNSZG9wwbJwh/ohall5NSIi1g9jQWsD3EJVorNxdM=",
+  "Hash": "dl6Doz6ESWi0kXQ1nJahsp/jmflQj3evAP04ompNrRc=",
   "Source": "EventManagement",
   "BasePath": "_content/EventManagement",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EventManagement.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\Account.css",
+      "SourceId": "EventManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\",
+      "BasePath": "_content/EventManagement",
+      "RelativePath": "css/Account#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6u56ixxvbv",
+      "Integrity": "8ladgezJYzzzj7kgHE40u6wITXm+xkq+ypmcUADDBIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Account.css"
     },
     {
       "Identity": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\site.css",
@@ -1341,6 +1362,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/Account.6u56ixxvbv.css",
+      "AssetFile": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\Account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ladgezJYzzzj7kgHE40u6wITXm+xkq+ypmcUADDBIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 21:08:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6u56ixxvbv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Account.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ladgezJYzzzj7kgHE40u6wITXm+xkq+ypmcUADDBIQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account.css",
+      "AssetFile": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\Account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ladgezJYzzzj7kgHE40u6wITXm+xkq+ypmcUADDBIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 21:08:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ladgezJYzzzj7kgHE40u6wITXm+xkq+ypmcUADDBIQ="
+        }
+      ]
+    },
     {
       "Route": "css/site.3kl68v63fk.css",
       "AssetFile": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\site.css",

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Image\\HomeImage.png"
     },
     {
+      "Id": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\Account.css",
+      "PackagePath": "staticwebassets\\css\\Account.css"
+    },
+    {
       "Id": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
