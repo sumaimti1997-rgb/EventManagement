@@ -87,8 +87,7 @@
               "RelativeToolTip": "EventManagement\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T21:01:19.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T21:01:19.361Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "EventManagement\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T21:01:11.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T21:01:11.368Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "EventManagement\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T20:59:48.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T20:59:48.541Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "EventManagement\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T11:29:47.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T11:29:47.138Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "EventManagement\\Views\\Shared\\_AccountLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T20:39:49.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T20:39:49.972Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "EventManagement\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T11:34:49.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T11:34:49.842Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "EventManagement\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T18:10:29.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T18:10:29.348Z"
             },
             {
               "$type": "Document",
