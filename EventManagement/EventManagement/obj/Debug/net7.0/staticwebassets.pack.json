@@ -9,7 +9,15 @@
       "PackagePath": "staticwebassets\\Image\\HomeImage.png"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Janaka\\Desktop\\projects\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\site.css",
+=======
+      "Id": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\Account.css",
+      "PackagePath": "staticwebassets\\css\\Account.css"
+    },
+    {
+      "Id": "D:\\Sumaiya\\AD\\cw ad 2\\EventManagement\\EventManagement\\EventManagement\\wwwroot\\css\\site.css",
+>>>>>>> 3e4266d19bf4f2f625b258272fee71377d9a02ef
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
